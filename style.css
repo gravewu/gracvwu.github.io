@@ -1,0 +1,18 @@
+body{
+	background-color:grey;
+	color:burlywood;
+	paddling:10px;
+	
+}
+#image {
+	float:left;
+}
+
+#description {
+	float:right;	
+}
+
+#reviews{
+	clear:both;
+	
+}
